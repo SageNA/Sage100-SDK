@@ -1,2 +1,5 @@
-# Sage100-SDK
-Sage 100 Web API SDK and related content.
+README.md 
+
+Sage 100 Web SDK
+
+To be filled in later
